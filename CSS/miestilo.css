@@ -1,0 +1,40 @@
+
+h1 {
+  color: rgb(232, 109, 185);
+  font-size: 40px;
+  text-align: center;
+  font-family: Tahoma;
+}
+
+p {
+  color: rgb(3, 3, 3);
+  font-family:  tahoma;
+  text-align: justify;
+
+}
+
+
+img {
+  text-align: left;
+
+}
+
+
+h2 {
+  color: rgb(232, 109, 185);
+}
+
+img {
+  width: 400px;
+  height: 300px;
+  margin-left: 30%;
+  text-align: center;
+}
+
+h3 {
+  color: rgb(232, 109, 185);
+  font-family: Tahoma;
+
+}
+
+
